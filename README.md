@@ -1,4 +1,4 @@
-# krota-template
+# Krota-template
 This is the open repository for the template of [https://www.krotanote.xyz](krotanote.xyz) website.
 This template is rendered using HUGO.
 
@@ -17,3 +17,5 @@ git clone https://github.com/Stradichenko/krota-template themes/krota-template
 echo "theme = 'krota-template'" >> config.toml
 cp themes/krota-template/style.css static/
 ```
+
+## [Template structure](/templates-structure)

@@ -1,0 +1,18 @@
+name = "Krota-theme"
+license = ""
+licenselink = ""
+description = ""
+homepage = "https://github.com/Stradichenko/krota-template/"
+tags = [ ]
+features = ["page builder", "widgets", "search", "research publication system",
+            "blog", "create courses", "talks", "events", "slides", "gallery", "contact form"]
+
+[author]
+  name = "Gary J. Espitia S."
+  homepage = "https://www.krotanote.xyz"
+
+# If porting an existing theme
+[original]
+  name = ""
+  homepage = ""
+  repo = ""
