@@ -18,4 +18,4 @@ echo "theme = 'krota-theme'" >> config.toml
 cp themes/krota-theme/style.css static/
 ```
 
-## [Template structure](templates-structure)
+## [Template structure](template-structure)
