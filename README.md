@@ -1,4 +1,4 @@
-# Krota-template
+# Krota-theme
 This is the open repository for the template of [https://www.krotanote.xyz](krotanote.xyz) website.
 This template is rendered using HUGO.
 
@@ -13,9 +13,9 @@ The theme is inspired in Edward Tufte, the Zettelkasten system and Gwerns' blog.
 ```bash
 hugo new site YOURBLOG
 cd YOURBLOG
-git clone https://github.com/Stradichenko/krota-template themes/krota-template
-echo "theme = 'krota-template'" >> config.toml
-cp themes/krota-template/style.css static/
+git clone https://github.com/Stradichenko/krota-template themes/krota-theme
+echo "theme = 'krota-theme'" >> config.toml
+cp themes/krota-theme/style.css static/
 ```
 
-## [Template structure](/templates-structure)
+## [Template structure](templates-structure)
