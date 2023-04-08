@@ -132,3 +132,4 @@ dmypy.json
 
 # Ignore the rendering tests using HUGO
 public
+.hugo_build.lock
