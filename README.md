@@ -1,5 +1,5 @@
 # Krota-theme
-This is the open repository for the template of [https://www.krotanote.xyz](krotanote.xyz) website.
+This is the open repository for the template of [krotanote.xyz](https://www.krotanote.xyz) website.
 This template is rendered using HUGO.
 
 ## Philosphy and _raison d'être_
@@ -18,4 +18,4 @@ echo "theme = 'krota-theme'" >> config.toml
 cp themes/krota-theme/style.css static/
 ```
 
-## [Template structure](template-structure)
+## [template-structure](template-structure)
