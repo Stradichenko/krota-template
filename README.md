@@ -14,8 +14,9 @@ The theme is inspired in Edward Tufte, the Zettelkasten system and Gwerns' blog.
 hugo new site YOURBLOG
 cd YOURBLOG
 git clone https://github.com/Stradichenko/krota-template themes/krota-theme
-echo "theme = 'krota-theme'" >> config.toml
+echo "theme = 'krota-theme'" >> config.toml # Append a line to the site configuration file, indicating the current theme.
 cp themes/krota-theme/style.css static/
+hugo server
 ```
 
-## [template-structure](template-structure)
+## [template-structure](/template-structure)
