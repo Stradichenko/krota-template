@@ -19,4 +19,4 @@ cp themes/krota-theme/style.css static/
 hugo server
 ```
 
-## [template-structure](/template-structure)
+## [template-structure](/template-structure.md)
